@@ -1,0 +1,6 @@
+﻿  GLRenderer.cpp
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispita\glk\glrenderer.h(45): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispita\glk\glrenderer.cpp(380): warning C4700: uninitialized local variable 'u' used
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispita\glk\glrenderer.cpp(381): warning C4700: uninitialized local variable 'v' used
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\Ispit\ZadaciSaIspita\Debug\ZadaciSaIspita.exe
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\Ispit\ZadaciSaIspita\Debug\ZadaciSaIspita.pdb (Full PDB)

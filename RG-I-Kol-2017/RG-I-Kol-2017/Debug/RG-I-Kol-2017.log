@@ -1,0 +1,17 @@
+﻿  RG-I-Kol-2017View.cpp
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(189): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(190): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(191): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(192): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(270): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(274): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(283): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(288): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(289): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(301): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(403): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2017\rg-i-kol-2017\rg-i-kol-2017view.cpp(407): warning C4305: '-=': truncation from 'double' to 'float'
+  RG-I-Kol-2017.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2017\Debug\RG-I-Kol-2017.exe
+  RG-I-Kol-2017.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2017\Debug\RG-I-Kol-2017.pdb (Full PDB)

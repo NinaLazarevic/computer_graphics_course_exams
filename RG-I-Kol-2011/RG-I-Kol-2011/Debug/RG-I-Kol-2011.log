@@ -1,0 +1,8 @@
+﻿  RG-I-Kol-2011View.cpp
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2011\rg-i-kol-2011\rg-i-kol-2011view.cpp(124): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2011\rg-i-kol-2011\rg-i-kol-2011view.cpp(133): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2011\rg-i-kol-2011\rg-i-kol-2011view.cpp(134): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2011\rg-i-kol-2011\rg-i-kol-2011view.cpp(135): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2011\rg-i-kol-2011\rg-i-kol-2011view.cpp(136): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  RG-I-Kol-2011.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2011\Debug\RG-I-Kol-2011.exe
+  RG-I-Kol-2011.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2011\Debug\RG-I-Kol-2011.pdb (Partial PDB)

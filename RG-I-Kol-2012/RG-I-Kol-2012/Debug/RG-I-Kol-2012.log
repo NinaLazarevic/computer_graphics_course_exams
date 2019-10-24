@@ -1,0 +1,17 @@
+﻿  RG-I-Kol-2012View.cpp
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(135): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(136): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(137): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(138): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(199): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(200): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(226): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(227): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(231): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(236): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(240): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2012\rg-i-kol-2012\rg-i-kol-2012view.cpp(241): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RG-I-Kol-2012.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2012\Debug\RG-I-Kol-2012.exe
+  RG-I-Kol-2012.vcxproj -> c:\users\nina\documents\visual studio 2015\Projects\RG-I-Kol-2012\Debug\RG-I-Kol-2012.pdb (Partial PDB)

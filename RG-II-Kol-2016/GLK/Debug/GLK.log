@@ -1,0 +1,4 @@
+﻿  GLRenderer.cpp
+d:\iv godina\racunarska grafika\blanketi\ii kolokvijum\rg-ii-kol-2016\glk\glrenderer.cpp(411): warning C4172: returning address of local variable or temporary: result
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\II kolokvijum\RG-II-Kol-2016\Debug\RG-II-Kol-2016.exe
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\II kolokvijum\RG-II-Kol-2016\Debug\RG-II-Kol-2016.pdb (Full PDB)

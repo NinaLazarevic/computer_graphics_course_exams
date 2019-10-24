@@ -1,0 +1,26 @@
+﻿  RG-I-Kol-2013View.cpp
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(172): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(178): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(201): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(202): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(211): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(212): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(213): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(214): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(231): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(234): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(240): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(242): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(246): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(250): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(259): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(265): warning C4305: '=': truncation from 'double' to 'FLOAT'
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(270): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(277): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(287): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(293): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(298): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\nina\documents\visual studio 2015\projects\rg-i-kol-2013\rg-i-kol-2013\rg-i-kol-2013view.cpp(304): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  RG-I-Kol-2013.vcxproj -> C:\Users\Nina\documents\visual studio 2015\Projects\RG-I-Kol-2013\Debug\RG-I-Kol-2013.exe
+  RG-I-Kol-2013.vcxproj -> C:\Users\Nina\documents\visual studio 2015\Projects\RG-I-Kol-2013\Debug\RG-I-Kol-2013.pdb (Partial PDB)

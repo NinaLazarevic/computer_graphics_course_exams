@@ -1,0 +1,5 @@
+﻿  GLRenderer.cpp
+d:\iv godina\racunarska grafika\blanketi\ii kolokvijum\rg-ii-kol-2013\glk\glrenderer.h(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\iv godina\racunarska grafika\blanketi\ii kolokvijum\rg-ii-kol-2013\glk\glrenderer.cpp(101): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\II kolokvijum\RG-II-Kol-2013\Debug\RG-II-Kol-2013.exe
+  GLK.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\II kolokvijum\RG-II-Kol-2013\Debug\RG-II-Kol-2013.pdb (Full PDB)

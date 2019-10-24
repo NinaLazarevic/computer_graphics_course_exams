@@ -1,0 +1,13 @@
+﻿  ZadaciSaIspitaGDIView.cpp
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(131): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(132): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(133): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(134): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(204): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(215): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(335): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(337): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\iv godina\racunarska grafika\blanketi\ispit\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdi\zadacisaispitagdiview.cpp(393): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  ZadaciSaIspitaGDI.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\Ispit\ZadaciSaIspitaGDI\ZadaciSaIspitaGDI\Debug\ZadaciSaIspitaGDI.exe
+  ZadaciSaIspitaGDI.vcxproj -> D:\IV godina\Racunarska grafika\Blanketi\Ispit\ZadaciSaIspitaGDI\ZadaciSaIspitaGDI\Debug\ZadaciSaIspitaGDI.pdb (Full PDB)
